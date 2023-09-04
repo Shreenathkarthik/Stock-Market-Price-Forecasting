@@ -34,5 +34,5 @@ Univariate and Multivariate LSTM for Stock Price Forecasting : https://drive.goo
 -> Chatbot for helping users.
 
 # Contributed By
-1. Shreenath
-2. Arun Karthik
+1. Shreenath K
+2. Silesh A K
